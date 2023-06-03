@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(67, 79, 255);
+
+    display: grid;
+
+    place-content: center;
+}
+
+img {
+    width: 30vh;
+}
+
+#cont-productos {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: hsl(194, 100%, 50%);
+    padding: 10px;
+    border: 2px solid rgba(66, 66, 66, 0.795);
+}
+
+#carrito-compra {
+    background-color: #ffffffb2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgba(27, 27, 27, 0.452);
+    font-size: medium;
+
+}
